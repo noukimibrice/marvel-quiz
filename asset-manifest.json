@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/marvel-quiz/static/css/main.02999bf7.chunk.css",
+    "main.js": "/marvel-quiz/static/js/main.1f40f42d.chunk.js",
+    "main.js.map": "/marvel-quiz/static/js/main.1f40f42d.chunk.js.map",
+    "runtime-main.js": "/marvel-quiz/static/js/runtime-main.e308991e.js",
+    "runtime-main.js.map": "/marvel-quiz/static/js/runtime-main.e308991e.js.map",
+    "static/css/2.d45d6843.chunk.css": "/marvel-quiz/static/css/2.d45d6843.chunk.css",
+    "static/js/2.5c22e08a.chunk.js": "/marvel-quiz/static/js/2.5c22e08a.chunk.js",
+    "static/js/2.5c22e08a.chunk.js.map": "/marvel-quiz/static/js/2.5c22e08a.chunk.js.map",
+    "static/js/3.2a6d6a46.chunk.js": "/marvel-quiz/static/js/3.2a6d6a46.chunk.js",
+    "static/js/3.2a6d6a46.chunk.js.map": "/marvel-quiz/static/js/3.2a6d6a46.chunk.js.map",
+    "index.html": "/marvel-quiz/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/marvel-quiz/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.02999bf7.chunk.css.map": "/marvel-quiz/static/css/main.02999bf7.chunk.css.map",
+    "static/js/2.5c22e08a.chunk.js.LICENSE.txt": "/marvel-quiz/static/js/2.5c22e08a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/marvel-quiz/static/media/xmen.294b1d93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e308991e.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.5c22e08a.chunk.js",
+    "static/css/main.02999bf7.chunk.css",
+    "static/js/main.1f40f42d.chunk.js"
+  ]
+}
